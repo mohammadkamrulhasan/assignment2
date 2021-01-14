@@ -1,0 +1,26 @@
+.introduction{
+    margin: 20px;
+    padding-right: 30px;
+}
+.promotion h1{
+    font-size: 60px;
+}
+.promotion-new h1{
+    font-size: 60px;
+    color: rgb(58, 10, 10);
+}
+.navtag{
+    font-weight: 700;
+}
+.product-card{
+    border: 0;
+    color: rgb(2, 26, 2);
+}
+.product-card-footer{
+    border: 0;
+    background-color: white;
+}
+.product-card-footer h3,h1{
+    font-weight: 700;
+    color: rgb(39, 7, 80);
+}
